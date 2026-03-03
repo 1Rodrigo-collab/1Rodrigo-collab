@@ -4,7 +4,7 @@
 
 Transformo dados em decisões estratégicas.
 Foco em métricas como ROI, CAC e Conversão para gerar impacto real no negócio.
-Construindo projetos práticos voltados à análise de performance e inteligência de mercado. Meu instagram"[Rodrigo Andrade](https://www.instagram.com/_rodriogz/)", meu linkedin"[Rodrigo](https://www.linkedin.com/in/rodrigop18/)"
+Construindo projetos práticos voltados à análise de performance e inteligência de mercado.
 
 <p align="left">
     <a href="https://github.com/1Rodrigo-collab?tab=followers">
