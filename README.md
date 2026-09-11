@@ -1,6 +1,8 @@
 # 🤖 Rodrigo Andrade
 
-Construindo projetos práticos para desenvolver habilidades e criar valor real
+**`Aprendendo, construindo e em busca da minha primeira oportunidade em tech 🚀`**
+
+🚀Construindo projetos práticos para desenvolver habilidades e criar valor real
 
 <p align="left">
     <a href="https://github.com/1Rodrigo-collab?tab=followers">
