@@ -1,10 +1,6 @@
 # 🤖 Rodrigo Andrade
 
-**`Data Analyst em formação | SQL • Python • Power BI`**
-
-Transformo dados em decisões estratégicas.
-Foco em métricas como ROI, CAC e Conversão para gerar impacto real no negócio.
-Construindo projetos práticos voltados à análise de performance e inteligência de mercado.
+Construindo projetos práticos para desenvolver habilidades e criar valor real
 
 <p align="left">
     <a href="https://github.com/1Rodrigo-collab?tab=followers">
@@ -79,6 +75,14 @@ Construindo projetos práticos voltados à análise de performance e inteligênc
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="HTML5" 
+    title="HTML5"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
+/>
 
 <img 
     align="left" 
@@ -98,9 +102,17 @@ Construindo projetos práticos voltados à análise de performance e inteligênc
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
-          
 
+<img 
+    align="left" 
+    alt="SPRING" 
+    title="SPRING"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
 
+    
 <img 
     align="left" 
     alt="GitHub" 
